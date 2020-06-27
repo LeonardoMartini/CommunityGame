@@ -1,1 +1,4 @@
 # CommunityGame
+Muitos jogos hoje em dia, principalmente de console, tem um preço elevado e por isso dificulta seu acesso a muitas pessoas. Pensando nisso, estou desenvolvendo o "CommunityGame". Um aplicativo voltado para a comunidade gamer, para facilitar a troca de jogos, equipamentos gamers, entre jogadores que não tem condição de comprar um jogo novo, um fone, um controle novo. Ou ate mesmo para que aqueles que ja enjoaram de algum jogo e não queiram mais ele, podendo troca-lo por outro, ,assim ajudando a outra pessoa a ter um novo jogo tambem. 
+O usuario podera cadastrar seus produtos, postar os produtos que deseja vender ou trocar, entrar em contato com outros usuarios a partir de suas postagens, podera filtrar usuarios proximos para facilitar a troca, filtrar por data de postagem, valor, por jogos especificos, por generos de jogos...
+Projeto em desenvolvimento :)
